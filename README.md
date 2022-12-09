@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gowsrini2004
-- Theyy call me PANDA (*>*)
+- Theyy call me PANDA (**>**)
 - 👀 I’m interested in 🐍
 - tryenn to do moree cool and intresting stuff in .py
 - 🌱 I’m currently learning C
